@@ -1,5 +1,3 @@
-// forecast api key 278c9d582cc1c0bd6968c962eaf54bd0
-// pw: Wc8qNfr6pNZC
 // get call from https://api.forecast.io/forecast/278c9d582cc1c0bd6968c962eaf54bd0/22.3636,91.8033
 
 // 22.376594 91.846892
